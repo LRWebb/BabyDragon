@@ -8,4 +8,15 @@ class BabyDragon
     # 0 is no need, 10 is need bathroom
     puts " #{ @name } is born! "
   end
+
+  def feed
+    # tell the user what they did
+    puts "You feed #{ @name }!"
+
+    # feeding the baby makes them full
+    @stuff_in_belly = 10
+
+
+  end
+
 end
