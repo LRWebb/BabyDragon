@@ -28,6 +28,16 @@ class BabyDragon
     passage_of_time
   end
 
+  def ignore
+    # let the user know what's happening
+    puts "You put #{ @name } somewhere warm and safe for a while"
+    # figure out how ignoring the baby dragon affects it
+
+    # time goes by
+    passage_of_time
+  end
+
+
   private
   def passage_of_time
     if @stuff_in_belly > 0
