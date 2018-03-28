@@ -28,6 +28,7 @@ class BabyDragon
     passage_of_time
   end
 
+  private
   def passage_of_time
     if @stuff_in_belly > 0
       @stuff_in_belly -= 2
