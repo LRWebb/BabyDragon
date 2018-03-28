@@ -15,11 +15,32 @@ class BabyDragon
 
     # feeding the baby makes them full
     @stuff_in_belly = 10
+
+    #time goes by
+    passage_of_time
   end
 
   def walk
     puts "You take #{ @name } out for a nice walk"
     @stuff_in_intestine = 0
+
+    # time goes by
+    passage_of_time
   end
 
+  def passage_of_time
+    if @stuff_in_belly > 0
+      @stuff_in_belly -= 2
+      @stuff_in_intestine += 2
+    else # hungry!
+      if @asleep = false # wake the baby dragon
+        #tell the user the baby dragon woke up
+        puts "#{ @name } wakes up suddenly!"
+    end
+
+    # tell the user the baby dragon is hungry
+    puts "#{ @name } is hungry, time for food! They go off to find some.... bye!"
+    exit
+    end
+  end
 end
