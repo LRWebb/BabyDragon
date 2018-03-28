@@ -15,8 +15,11 @@ class BabyDragon
 
     # feeding the baby makes them full
     @stuff_in_belly = 10
+  end
 
-
+  def walk
+    puts "You take #{ @name } out for a nice walk"
+    @stuff_in_intestine = 0
   end
 
 end
