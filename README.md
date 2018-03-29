@@ -11,19 +11,19 @@ Watch [this video](https://vimeo.com/157546255) and follow along. Google for ans
 * Laptop
 * Code editor- I used [Atom](https://atom.io/)
 * [Git](https://git-scm.com/downloads)
-* [Ruby](https://www.ruby-lang.org/en/downloads/) This gives you access to irb, which you'll hear in the video.
+* [Ruby](https://www.ruby-lang.org/en/downloads/) This gives you access to irb, which you'll hear in the video and can use to test your code.
 * Internet connection when making the commits up to GitHub
 
 ### Doing this:
 
 #### Level One:
-You can follow along with writing the code down- anywhere is fine, the main thing is to familiarize yourself with the vocabulary and flow
+You can follow along with writing the code down- anywhere is fine, the main thing is to familiarize yourself with the vocabulary and flow.
 #### Level Two:
 As you follow along, write the code in a code editor like [Atom](https://atom.io/) and save the file to your computer. This means the file is "*saved locally.*" Make sure to save the file with the ending ".rb" to denote that it's code written in Ruby.
 #### Level Three:
 Have [Ruby](https://www.ruby-lang.org/en/downloads/) installed so that as you follow along with the video and write your own code in Atom, you can run the code in your terminal using IRB and see how it works!
 #### Level Four:
-Using the command line, move your code from your local machine up to GitHub by [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+Using the command line, move your code from your local machine up to GitHub by  [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 ### Some things I ran into:
 1. Email- [set it up to be private](https://help.github.com/articles/about-commit-email-addresses/)
@@ -31,7 +31,7 @@ Using the command line, move your code from your local machine up to GitHub by [
 
 ### Built with:
 * [Git](https://git-scm.com/downloads)
-* [Ruby](https://www.ruby-lang.org/en/downloads/) This gives you access to irb,
+* [Ruby](https://www.ruby-lang.org/en/downloads/) 
 * [Atom](https://atom.io/)
 * [Github!](https://github.com/)
 
