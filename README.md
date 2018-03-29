@@ -23,7 +23,8 @@ As you follow along, write the code in a code editor like [Atom](https://atom.io
 #### Level Three:
 Have [Ruby](https://www.ruby-lang.org/en/downloads/) installed so that as you follow along with the video and write your own code in Atom, you can run the code in your terminal using IRB and see how it works!
 #### Level Four:
-Using the command line, move your code from your local machine up to GitHub by  [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+Using the command line, move your code from your local machine up to GitHub by  
+[Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 ### Some things I ran into:
 1. Email- [set it up to be private](https://help.github.com/articles/about-commit-email-addresses/)
